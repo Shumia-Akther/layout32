@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 100px;
+    background-color: aqua;
+    color: black;
+    text-align: center;
+}
+.nav_left{
+    height: 100%;
+    width: 25%;
+    background-color: brown;
+    text-align: center;
+    color: azure;
+}
+.nav_middel{
+    height: 100%;
+    width: 50%;
+    background-color: rgb(69, 42, 165);
+    text-align: center;
+    color: azure;
+.middel_top{
+    height: 25%;
+    background-color: beige;
+}
+.middel_center{
+    height: 50%;
+    background-color: blueviolet;
+
+}
+.middel_bottem{
+    height: 25%;
+    background-color: aqua;
+
+}
+}
+.nav_right{
+    height: 100%;
+    width: 25%;
+    background-color: rgb(147, 165, 42);
+    text-align: center;
+    color: azure;
+} 
+.navigation{
+    display: flex;
+    height: 600px;
+}
+.footer{
+    height: 70px;
+    background-color: teal;
+    text-align: center;
+    color: black;
+}
+
+
